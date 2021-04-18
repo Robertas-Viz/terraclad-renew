@@ -72,7 +72,7 @@ img {
   color: black; }
   .header {
     height: 100vh;
-    background-image: linear-gradient(to left bottom, rgba(0, 0, 0, 0.568), rgba(29, 26, 26, 0.699)), url(https://images.unsplash.com/photo-1617357283269-2bfd2834d8e9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI0fHxjb25zdHJ1Y3Rpb24lMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60);
+    background-image: linear-gradient(to left bottom, rgba(0, 0, 0, 0.568), rgba(29, 26, 26, 0.699)), url('https://images.unsplash.com/photo-1617357283269-2bfd2834d8e9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI0fHxjb25zdHJ1Y3Rpb24lMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60');
     background-size: cover;
     background-position: bottom;
     position: relative;
@@ -210,7 +210,7 @@ h3 {
         @media only screen and (max-width: 576px) {
 
           .height-adjust {
-            height: 75vh;
+            height: 65vh;
             width: 85vw;
           }
           
@@ -277,7 +277,7 @@ h3 {
             background-repeat: no-repeat;
           }
           #trys2 {
-            background-image: url('../img/metsewcsun.jpg');
+            background-image: url('../img/hople.jpg');
        
             background-position: center center;
             background-size: cover;
@@ -288,7 +288,7 @@ h3 {
             
           }
           #keturi2 {
-            background-image: url('../img/ext22.JPG');
+            background-image: url('../img/main-house01.jpg');
             
             background-position: center bottom ;
             background-size: cover;
@@ -297,7 +297,7 @@ h3 {
             background-repeat: no-repeat;
           }
           #penki2 {
-            background-image: url('../img/rockwool.jpg');
+            background-image: url('https://image.freepik.com/free-photo/image-engineering-objects-workplace-top-view-construction-concept-engineering-tools-vintage-tone-retro-filter-effect-soft-focus-selective-focus_1418-474.jpg');
             
             background-position: center bottom ;
             background-size: cover;
@@ -313,6 +313,7 @@ h3 {
           .mob-top-2 {
             margin-top: 10px;
             font-size: 1.7em;
+           
           }
           h1 {
             font-size: 3rem;
@@ -397,7 +398,7 @@ h3 {
                 background-repeat: no-repeat;
               }
               #trys2 {
-                background-image: url('../img/metsewcsun.jpg');
+                background-image: url('../img/hople.jpg');
            
                 background-position: center center;
                 background-size: cover;
@@ -408,8 +409,7 @@ h3 {
                 
               }
               #keturi2 {
-                background-image: url('../img/ext22.JPG');
-                
+                background-image: url('../img/main-house01.jpg');
                 background-position: center bottom ;
                 background-size: cover;
                 position: relative;
@@ -417,7 +417,7 @@ h3 {
                 background-repeat: no-repeat;
               }
               #penki2 {
-                background-image: url('../img/rockwool.jpg');
+                background-image: url('https://image.freepik.com/free-photo/image-engineering-objects-workplace-top-view-construction-concept-engineering-tools-vintage-tone-retro-filter-effect-soft-focus-selective-focus_1418-474.jpg');
                 
                 background-position: center bottom ;
                 background-size: cover;
@@ -528,7 +528,7 @@ h3 {
             background-repeat: no-repeat;
           }
           #trys2 {
-            background-image: url('../img/metsewcsun.jpg');
+            background-image: url('../img/hople.jpg');
        
             background-position: center center;
             background-size: cover;
@@ -539,8 +539,7 @@ h3 {
             
           }
           #keturi2 {
-            background-image: url('../img/ext22.JPG');
-            
+            background-image: url('../img/main-house01.jpg');
             background-position: center bottom ;
             background-size: cover;
             position: relative;
@@ -548,7 +547,7 @@ h3 {
             background-repeat: no-repeat;
           }
           #penki2 {
-            background-image: url('../img/rockwool.jpg');
+            background-image: url('https://image.freepik.com/free-photo/image-engineering-objects-workplace-top-view-construction-concept-engineering-tools-vintage-tone-retro-filter-effect-soft-focus-selective-focus_1418-474.jpg');
             
             background-position: center bottom ;
             background-size: cover;
@@ -580,7 +579,7 @@ h3 {
                         
                         .header-gallery {
                           height: 95vh;
-                          background-image: linear-gradient(to right bottom, rgba(90, 6, 31, 0.6), rgba(13, 8, 34, 0.438)), url(https://images.unsplash.com/photo-1604027284657-be209d7aec47?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTcwfHxjb25zdHJ1Y3Rpb258ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60);
+                          background-image: linear-gradient(to right bottom, rgba(90, 6, 31, 0.6), rgba(13, 8, 34, 0.438)), url('https://images.unsplash.com/photo-1604027284657-be209d7aec47?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTcwfHxjb25zdHJ1Y3Rpb258ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60');
                           background-size: cover;
                           background-position: top;
                           position: relative;
@@ -662,7 +661,7 @@ h3 {
             background-repeat: no-repeat;
           }
           #trys2 {
-            background-image: url('../img/metsewcsun.jpg');
+            background-image: url('../img/hople.jpg');
             background-attachment: fixed;
             background-position: center center;
             background-size: cover;
@@ -673,7 +672,7 @@ h3 {
             
           }
           #keturi2 {
-            background-image: url('../img/ext22.JPG');
+            background-image: url('../img/main-house01.jpg');
             background-attachment: fixed;
             background-position: center bottom ;
             background-size: cover;
@@ -683,7 +682,7 @@ h3 {
             background-repeat: no-repeat;
           }
           #penki2 {
-            background-image: url('../img/rockwool.jpg');
+            background-image: url('https://image.freepik.com/free-photo/image-engineering-objects-workplace-top-view-construction-concept-engineering-tools-vintage-tone-retro-filter-effect-soft-focus-selective-focus_1418-474.jpg');
             background-attachment: fixed;
             background-position: center bottom ;
             background-size: cover;
@@ -724,7 +723,7 @@ h3 {
                                   */ }
                                   .header-gallery {
                                     height: 95vh;
-                                    background-image: linear-gradient(to right bottom, rgba(90, 6, 31, 0.6), rgba(13, 8, 34, 0.438)), url(https://images.unsplash.com/photo-1604027284657-be209d7aec47?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTcwfHxjb25zdHJ1Y3Rpb258ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60);
+                                    background-image: linear-gradient(to right bottom, rgba(90, 6, 31, 0.6), rgba(13, 8, 34, 0.438)), url('https://images.unsplash.com/photo-1604027284657-be209d7aec47?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTcwfHxjb25zdHJ1Y3Rpb258ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60');
                                     background-size: cover;
                                     background-position: top;
                                     position: relative;
@@ -948,7 +947,7 @@ h3 {
   ****************************************************************************/
   .header-gallery {
     height: 95vh;
-    background-image: linear-gradient(to right bottom, rgba(90, 6, 31, 0.6), rgba(13, 8, 34, 0.438)), url(https://images.unsplash.com/photo-1503387762-592deb58ef4e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Ymx1ZXByaW50cyUyMGNvbnN0cnVjdGlvbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60);
+    background-image: linear-gradient(to right bottom, rgba(90, 6, 31, 0.6), rgba(13, 8, 34, 0.438)), url('https://images.unsplash.com/photo-1503387762-592deb58ef4e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Ymx1ZXByaW50cyUyMGNvbnN0cnVjdGlvbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -975,7 +974,7 @@ h3 {
   
   .header-services {
     height: 100vh;
-    background-image: linear-gradient(to left bottom, rgba(0, 0, 0, 0.438), rgba(29, 26, 26, 0.699)), url(https://images.unsplash.com/photo-1536895058696-a69b1c7ba34f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTV8fGNvbnN0cnVjdGlvbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60);
+    background-image: linear-gradient(to left bottom, rgba(0, 0, 0, 0.438), rgba(29, 26, 26, 0.699)), url('https://image.freepik.com/free-photo/low-angle-view-blue-white-modern-buildings-cloudy-sky_181624-21358.jpg');
     background-size: cover;
     background-position: bottom;
     position: relative;
@@ -1098,7 +1097,7 @@ h3 {
   counter-increment: carousel-cell; }
 
 #carousel-image {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/ruda.JPG) ;
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url('https://image.freepik.com/free-photo/man-worker-firld-by-solar-panels_1303-15597.jpg') ;
  
   background-size: cover;
   background-position: center;
@@ -1106,25 +1105,25 @@ h3 {
   
 
 #carousel-image1 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/ruda2.JPG);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url('https://image.freepik.com/free-photo/solar-panels-house-roof-3d-illustration_147644-453.jpg');
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel-image2 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/ruda3.JPG);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url('https://image.freepik.com/free-photo/solar-panel-photovoltaic-installation-roof-factory-sunny-blue-sky-background-alternative-electricity-source-sustainable-resources-concept_39420-272.jpg');
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel-image3 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/ruda4.JPG);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(../img/solar.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel-image4 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/caping.JPG);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url('https://image.freepik.com/free-photo/3d-solar-pannels-project-energy-saving_23-2148907414.jpg');
   background-size: cover;
   background-position: center;
   position: relative; }
@@ -1132,31 +1131,31 @@ h3 {
 
 /*second carousel*/
 #carousel1-image {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/metsec01.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/main-house01.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel1-image1 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/metsec03.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img31.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel1-image2 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/metsec044.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img33.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel1-image3 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/metsec05.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/25.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel1-image4 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/metsee.JPG);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/blackcorner.JPG);
   background-size: cover;
   background-position: center;
   position: relative; }
@@ -1164,25 +1163,25 @@ h3 {
 
 /* third carousel */
 #carousel2-image {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/homewin.JPG);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/namas321.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel2-image1 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/und.JPG);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/ddaaaA.jpeg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel2-image2 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/cladd.JPG);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/green23.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel2-image3 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/durys.JPG);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/IMG_1931.jpeg);
   background-size: cover;
   background-position: center;
   position: relative; }
@@ -1192,33 +1191,37 @@ h3 {
   background-size: cover;
   background-position: center;
   position: relative; }
+
+
 /* fourth carousel */
+
+
 #carousel3-image {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/pharmas.JPG);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/IMG_8865.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel3-image1 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/windowinstal.JPG);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/IMG_8864.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel3-image2 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/pharma.JPG);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/IMG_8869.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel3-image3 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/must.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/IMG_8871.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel3-image4 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/windo999.JPG);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/IMG_8866.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
@@ -1229,7 +1232,7 @@ h3 {
   ****************************************************************************//
   @media only screen and (min-resolution: 192dpi) and (min-width: 37.5em), only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 37.5em), only screen and (min-width: 125em) {
     .header-services {
-      background-image: linear-gradient(to left bottom, rgba(92, 92, 94, 0.637), rgba(0, 0, 0, 0.699)), url(https://images.unsplash.com/photo-1558464678-2f1570e8d60e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzF8fGNvbnN0cnVjdGlvbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60);} }
+      background-image: linear-gradient(to left bottom, rgba(92, 92, 94, 0.637), rgba(0, 0, 0, 0.699)), url('https://images.unsplash.com/photo-1558464678-2f1570e8d60e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzF8fGNvbnN0cnVjdGlvbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60');} }
   .header-services__logo-box {
     position: absolute;
     top: 4rem;
@@ -1248,7 +1251,7 @@ h3 {
 
 #page-header-services {
   min-height: 450px;
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.6), rgba(3, 0, 0, 0.6)), url(https://images.unsplash.com/photo-1588332039066-f145965edf10?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTIwfHxoYXJkaGF0JTIwY29uc3RydWN0aW9ufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.6), rgba(3, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1588332039066-f145965edf10?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTIwfHxoYXJkaGF0JTIwY29uc3RydWN0aW9ufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60');
   background-position: bottom;
   background-attachment: fixed;
   background-size: cover;
@@ -1265,7 +1268,7 @@ h3 {
     justify-content: space-between;
     align-items: center;
     padding: 0.4rem;
-    background-color: #ffffff;
+    background-color: #fffffffd;
     overflow: hidden;
     
    }
@@ -1291,7 +1294,7 @@ h3 {
     text-decoration: none;
     text-transform: uppercase;
     padding: 1.4rem;
-    color: #4786dd;
+    color: #00b7ff;
     font-size: 2.4rem; }
   
   /*toggler button*/
@@ -1307,7 +1310,7 @@ h3 {
     display: block;
     width: 30px;
     height: 5px;
-    background-color: #4786dd;
+    background-color:  #00b7ff;;
     margin-bottom: 0.4rem;
     /*from hamburger to cross*/
     transition: 0.4s; }
@@ -1350,7 +1353,7 @@ h3 {
       text-decoration: none;
       text-transform: uppercase;
       padding: 1.4rem;
-      color: rgb(87, 136, 209);
+      color: #00b7ff;
       font-size: 3.4rem; } }
   
   /*make nav visible by transform*/
